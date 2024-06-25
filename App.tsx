@@ -92,8 +92,8 @@ function App() {
           <div className="min-[768px]:ml-[3.91vw] min-[768px]:mr-[3.13vw] min-[1440px]:mx-[2.08vw]">
             <ProjectCard
               imgUrl="../../assets/images/project5.png"
-              projectUrl="http://localhost:5173/"
-              codeUrl=""
+              projectUrl="https://dariusmolotokas.lt/"
+              codeUrl="https://github.com/dariusmit/my_dev_portfolio"
               title="PORTFOLIO SVETAINĖ"
               techStack={(techStack = ["React", "TypeScript", "Tailwind"])}
               disableDiv="hidden"
